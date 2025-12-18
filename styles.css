@@ -6,7 +6,7 @@
 	opacity:0.8
 }
 
-.movieDetails{
+p.movieDetails{
 	position: relative;
   top: 20px;
 	width:300px;
